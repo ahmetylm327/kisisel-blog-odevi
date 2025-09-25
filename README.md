@@ -5,8 +5,8 @@ Bu proje, bir ders ödevi için geliştirilmiş kişisel bir blog web sitesidir.
 ---
 ### Proje Linkleri
 
-* **GitHub Reposu:** [https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
-* **Canlı Site:** [https://KULLANICI_ADINIZ.github.io/REPO_ADINIZ/](https://KULLANICI_ADINIZ.github.io/REPO_ADINIZ/)
+* **GitHub Reposu:** https://github.com/ahmetylmz327/kisisel-blog-odevi
+* **Canlı Site:** https://stunning-muffin-06e1dd.netlify.app/
 
 ---
 ### Özellikler
